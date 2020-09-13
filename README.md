@@ -39,4 +39,6 @@ This dataset has about 40,000+ rows of data.
 ### - Gradient boosting algorithm model prediction (scikit-learn)
 ### - Model performance evaluation
 
-
+## Future improvements :soon:
+- Testing out with different predictive models and comparing model metrics
+- Correlation map for numerical features within the dataset
