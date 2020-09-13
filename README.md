@@ -1,4 +1,4 @@
-# BankMarketing prediction model
+# Bank Marketing prediction model
 ### This main objective of this project is to adopt a data driven approach to analyzing bank loan data and upscale bank telemarketing. 
 
 ## Project Definition
@@ -11,5 +11,3 @@
 ## About the dataset
 ### There's a mix of categorical and numerical columns in the data so the data has been split accordingly. 
 
-## Feature Engineering 
-### There's a section that divides our data into numerical features and categorical features (non numeric data such as job and education). Through this process,62 features for the machine learning model were created! 
