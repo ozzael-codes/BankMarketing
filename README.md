@@ -42,3 +42,6 @@ This dataset has about 40,000+ rows of data.
 ## Future improvements :soon:
 - Testing out with different predictive models and comparing model metrics
 - Correlation map for numerical features within the dataset
+
+## Get in touch
+If you have any more questions or feedback, please don't hesitate to [message me](https://twitter.com/acciogibberish)
